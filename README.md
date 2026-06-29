@@ -1,2 +1,2 @@
 # Microsoft-Excel_Certification
-Earned certification in Microsoft Excel, demonstrating expertise in data preparation, advanced formulas, PivotTables, interactive dashboards, visualization techniques, and business reporting to analyze complex datasets and support strategic decision-making.
+Demonstrated advanced proficiency in Microsoft Excel with hands-on experience in data cleaning, data validation, PivotTables, PivotCharts, VLOOKUP/XLOOKUP, logical functions, dashboard creation, and business reporting for analytical and decision-support applications.
